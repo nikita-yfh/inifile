@@ -1,0 +1,1 @@
+add_library(inifile SHARED inifile.cpp inifile.h)
