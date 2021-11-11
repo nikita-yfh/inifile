@@ -1,1 +1,1 @@
-add_library(inifile SHARED inifile.cpp inifile.h)
+add_library(inifile STATIC inifile.cpp inifile.h)
